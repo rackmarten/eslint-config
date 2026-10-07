@@ -1,5 +1,7 @@
 # @rackmarten/eslint-config
 
+[![Support on Ko-fi](https://img.shields.io/badge/Ko--fi-support-FF5E5B?logo=kofi&logoColor=white)](https://ko-fi.com/rackmarten)
+
 An opinionated ESLint 9 flat config for TypeScript (and Vue 3) projects, plus
 the Prettier config that goes with it. Prettier owns formatting; ESLint owns
 everything else, and `eslint-config-prettier` runs last so the two never
@@ -86,6 +88,16 @@ Unicorn rules changed from its defaults, and why:
 
 The Prettier config: `printWidth: 100`, double quotes, `trailingComma: "all"`,
 semicolons.
+
+## Support this project
+
+If this config saves you time, you can support its development on
+[Ko-fi](https://ko-fi.com/rackmarten):
+
+[![Support on Ko-fi](https://img.shields.io/badge/Ko--fi-support-FF5E5B?logo=kofi&logoColor=white)](https://ko-fi.com/rackmarten)
+
+Bug reports, ideas and pull requests
+are just as welcome; see [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## License
 
